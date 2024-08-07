@@ -1,0 +1,118 @@
+
+
+/* additionals */
+.space {
+    height: 50px;
+}
+.space2 {
+    background-color: #80c4ff;
+
+}
+.container {
+    background-color: #e0f7ff;
+}
+.background2 {
+    background-color: #80c4ff;
+}
+/* first row */
+
+.navbar {
+    height:90px;
+    background-color: #3399ff;
+}
+.welcome {
+    text-align: left;
+}
+.navbar-link {
+    color:#004080 ;
+}
+
+.personal-image {
+    height: 70px;
+    width: 70px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/* second row */
+.title-row {
+
+}
+.Image1 {
+    height: 275px;
+    width: 275px;
+    margin-left: 45px;
+}
+
+
+
+.heading {
+    font-family: Montserrat;
+    font-size: 45px;
+}
+
+.sub-heading {
+    font-family: lato;
+    font-size: 19px;
+    text-indent: 25px;
+    margin-top: 35px;
+}
+.sub-heading2 {
+    font-family: lato;
+    font-size: 19px;
+    margin-top: 20px;
+   
+}
+
+
+
+/* third row */
+
+.me {
+    text-align: center;
+}
+
+
+.Image2 {
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.Determined {
+    text-align:center;
+}
+.Determined2 {
+    text-align:center;
+}
+.Image3 {
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Enthusiastic {
+    text-align:center;
+}
+.Enthusiastic2 {
+    text-align:center;
+}
+
+.Image4 {
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Innovative {
+    text-align:center;
+}
+.Innovative2 {
+    text-align:center;
+}
