@@ -1,8 +1,14 @@
 
 
 /* additionals */
+.center {
+    text-align: center;
+}
 .space {
     height: 50px;
+}
+.space1/2 {
+    height: 25px;
 }
 .space2 {
     background-color: #80c4ff;
@@ -11,6 +17,7 @@
 .container {
     background-color: #e0f7ff;
 }
+
 .background2 {
     background-color: #80c4ff;
 }
@@ -24,15 +31,15 @@
     text-align: left;
 }
 .navbar-link {
-    color:#004080 ;
+    color:#ffffff ;
 }
 
 .personal-image {
     height: 70px;
     width: 70px;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 40px;
+    margin-right: 50px;
 }
 
 
@@ -43,12 +50,13 @@
 .Image1 {
     height: 275px;
     width: 275px;
-    margin-left: 45px;
+    margin-left: 55px;
 }
 
 
 
 .heading {
+    margin-top: 30px;
     font-family: Montserrat;
     font-size: 45px;
 }
@@ -56,7 +64,6 @@
 .sub-heading {
     font-family: lato;
     font-size: 19px;
-    text-indent: 25px;
     margin-top: 35px;
 }
 .sub-heading2 {
@@ -85,9 +92,12 @@
 }
 .Determined {
     text-align:center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
 }
 .Determined2 {
     text-align:center;
+    font-family: 'Source Code Pro', monospace;
 }
 .Image3 {
     height: 200px;
@@ -98,9 +108,12 @@
 }
 .Enthusiastic {
     text-align:center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
 }
 .Enthusiastic2 {
     text-align:center;
+    font-family: 'Source Code Pro', monospace;
 }
 
 .Image4 {
@@ -112,7 +125,10 @@
 }
 .Innovative {
     text-align:center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
 }
 .Innovative2 {
     text-align:center;
+    font-family: 'Source Code Pro', monospace;
 }
