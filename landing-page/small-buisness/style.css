@@ -1,6 +1,15 @@
 
 
 /* additionals */
+.center {
+    text-align: center;
+}
+
+.space2 {
+    height: 35px;
+}
+
+
 .space {
     height: 50px;
 }
@@ -13,4 +22,45 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
+    width: 95%;
+    height: 95%;
 }
+.navbar {
+    height:90px;
+    background-color: #3399ff;
+}
+.welcome {
+    text-align: left;
+}
+.navbar-link {
+    color:#ffffff ;
+}
+
+.personal-image {
+    height: 70px;
+    width: 70px;
+    display: block;
+    margin-left: 40px;
+    margin-right: 50px;
+}
+
+.back-button {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background-color: #000000;
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+
+  .Image2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    height: 95%;
+  }

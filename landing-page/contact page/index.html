@@ -32,25 +32,26 @@
     .contact-info p {
       margin: 10px 0;
     }
-    .home-button {
+    .back-button {
       position: absolute;
       top: 20px;
       right: 20px;
-      background-color: #004080;
+      background-color: #000000;
       color: white;
       padding: 10px 15px;
       text-decoration: none;
       border-radius: 5px;
       font-weight: bold;
+      cursor: pointer;
     }
-    .home-button:hover {
+    .back-button:hover {
       background-color: #003366;
     }
   </style>
 </head>
 <body>
   <div class="container">
-    <a href="index.html" class="home-button">Home</a>
+    <button class="back-button" onclick="history.back()">Back</button>
     <h1>Contact Information</h1>
     <div class="contact-info">
       <h2>Name</h2>
